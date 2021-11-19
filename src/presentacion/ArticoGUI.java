@@ -36,7 +36,7 @@ public class ArticoGUI extends JFrame{
         }
     }
 
-    private void elementos() throws Exception {
+    private void elementos() {
 
         setLayout(new BorderLayout());    
         contenedor = new JScrollPane();
